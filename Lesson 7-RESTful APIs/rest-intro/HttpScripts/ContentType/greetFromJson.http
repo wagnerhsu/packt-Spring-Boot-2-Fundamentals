@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/greeting
+Content-Type: application/json
+
+{
+  "addressee": "Shanghai",
+  "message": "China"
+}
